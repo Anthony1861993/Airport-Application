@@ -1,0 +1,48 @@
+<Vertices>
+ <Vertex ID="0">
+  <edge ID="1" Distance="4"/>
+  <edge ID="7" Distance="8"/>
+ </Vertex>
+ <Vertex ID="1">
+  <edge ID="2" Distance="8"/>
+  <edge ID="7" Distance="11"/>
+  <edge ID="0" Distance="4"/>
+ </Vertex>
+ <Vertex ID="2">
+  <edge ID="1" Distance="8"/>
+  <edge ID="3" Distance="7"/>
+  <edge ID="8" Distance="2"/>
+  <edge ID="5" Distance="4"/>
+ </Vertex>
+ <Vertex ID="3">
+  <edge ID="2" Distance="7"/>
+  <edge ID="4" Distance="9"/>
+  <edge ID="5" Distance="14"/>
+ </Vertex>
+ <Vertex ID="4">
+  <edge ID="3" Distance="9"/>
+  <edge ID="5" Distance="10"/>
+ </Vertex>
+ <Vertex ID="5">
+  <edge ID="6" Distance="2"/>
+  <edge ID="2" Distance="4"/>
+  <edge ID="3" Distance="14"/>
+  <edge ID="4" Distance="10"/>
+ </Vertex>
+ <Vertex ID="6">
+  <edge ID="7" Distance="1"/>
+  <edge ID="8" Distance="6"/>
+  <edge ID="5" Distance="2"/>
+ </Vertex>
+ <Vertex ID="7">
+  <edge ID="0" Distance="8"/>
+  <edge ID="1" Distance="11"/>
+  <edge ID="8" Distance="7"/>
+  <edge ID="6" Distance="1"/>
+ </Vertex>
+ <Vertex ID="8">
+  <edge ID="7" Distance="7"/>
+  <edge ID="2" Distance="2"/>
+  <edge ID="6" Distance="6"/>
+ </Vertex>
+</Vertices>
